@@ -1,0 +1,2 @@
+abdul,123,owner
+hamza,123,customer
