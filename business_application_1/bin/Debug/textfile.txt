@@ -1,0 +1,3 @@
+abdul,123,owner
+hamza,123,customer
+as,12,customer

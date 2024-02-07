@@ -1,0 +1,7 @@
+E:\AR CS 2nd semester\projects\version_1\business_application_1\business_application_1\bin\Debug\business_application_1.exe.config
+E:\AR CS 2nd semester\projects\version_1\business_application_1\business_application_1\bin\Debug\business_application_1.exe
+E:\AR CS 2nd semester\projects\version_1\business_application_1\business_application_1\bin\Debug\business_application_1.pdb
+E:\AR CS 2nd semester\projects\version_1\business_application_1\business_application_1\obj\Debug\business_application_1.csproj.AssemblyReference.cache
+E:\AR CS 2nd semester\projects\version_1\business_application_1\business_application_1\obj\Debug\business_application_1.csproj.CoreCompileInputs.cache
+E:\AR CS 2nd semester\projects\version_1\business_application_1\business_application_1\obj\Debug\business_application_1.exe
+E:\AR CS 2nd semester\projects\version_1\business_application_1\business_application_1\obj\Debug\business_application_1.pdb
