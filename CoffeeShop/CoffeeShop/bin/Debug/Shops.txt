@@ -1,0 +1,4 @@
+Tesha,orange juice;lemonade;cranberry juice;pineapple juice;ham and cheese sandwich;eggsandwich;steak;hamburger;cinnamon roll;lemon iced tea;vanilla chai latte;hot chocolate;iced coffee
+One Cup,lemon iced tea;vanilla chai latte;hot chocolate;iced coffee;cranberry juice;pineapple juice;tuna sandwich;ham and cheese sandwich
+MorningTime,tuna sandwich;ham and cheese sandwich;egg sandwich;steak;hamburger;cinnamon roll;orange juice;lemonadeStarbucks,orange juice;lemonade
+Starbucks,hamburger
