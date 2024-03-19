@@ -1,0 +1,4 @@
+abdul,123,owner
+af,13,customer
+,,
+qwe,12,customer
